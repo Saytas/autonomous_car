@@ -1,0 +1,8 @@
+prefix=/home/sytasch/GITHUB_CLONES/autonomous_car/catkin_ws/devel
+
+Name: autonomous_car_llc
+Description: Description of autonomous_car_llc
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sytasch/GITHUB_CLONES/autonomous_car/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/sytasch/GITHUB_CLONES/autonomous_car/catkin_ws/install
+
+Name: i2cpwm_board
+Description: Description of i2cpwm_board
+Version: 0.5.1
+Cflags: -I/home/sytasch/GITHUB_CLONES/autonomous_car/catkin_ws/install/include
+Libs: -L/home/sytasch/GITHUB_CLONES/autonomous_car/catkin_ws/install/lib 
+Requires: roscpp std_msgs message_runtime
